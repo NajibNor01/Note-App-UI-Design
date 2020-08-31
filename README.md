@@ -1,6 +1,7 @@
-# note
+# Note App UI Design
 
-A new Flutter project.
+I challenged my self with Note App UI and got this inspiration from Dribble.com
+https://dribbble.com/shots/14108212-Note-app/attachments/5730332?mode=media
 
 ## Getting Started
 
